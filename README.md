@@ -17,3 +17,7 @@ To generate the static output:
 ```
 hexo generate
 ```
+
+# Attribution
+
+The cat gif was made by [Strawheart](http://mtsids.com/).
